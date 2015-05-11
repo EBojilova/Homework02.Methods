@@ -1,0 +1,6 @@
+c:\users\elena\documents\visual studio 2013\Projects\02.Methods\04.FirstLargerThanNeighbours\bin\Debug\04.FirstLargerThanNeighbours.exe.config
+c:\users\elena\documents\visual studio 2013\Projects\02.Methods\04.FirstLargerThanNeighbours\bin\Debug\04.FirstLargerThanNeighbours.exe
+c:\users\elena\documents\visual studio 2013\Projects\02.Methods\04.FirstLargerThanNeighbours\bin\Debug\04.FirstLargerThanNeighbours.pdb
+c:\users\elena\documents\visual studio 2013\Projects\02.Methods\04.FirstLargerThanNeighbours\obj\Debug\04.FirstLargerThanNeighbours.csprojResolveAssemblyReference.cache
+c:\users\elena\documents\visual studio 2013\Projects\02.Methods\04.FirstLargerThanNeighbours\obj\Debug\04.FirstLargerThanNeighbours.exe
+c:\users\elena\documents\visual studio 2013\Projects\02.Methods\04.FirstLargerThanNeighbours\obj\Debug\04.FirstLargerThanNeighbours.pdb

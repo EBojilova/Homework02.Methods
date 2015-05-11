@@ -1,0 +1,3 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\02.Methods\06.NumberCalculations\bin\Debug\06.NumberCalculations.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\02.Methods\06.NumberCalculations\obj\Debug\06.NumberCalculations.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\02.Methods\06.NumberCalculations\obj\Debug\06.NumberCalculations.pdb
