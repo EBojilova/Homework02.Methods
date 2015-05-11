@@ -1,5 +1,0 @@
-C:\Users\Elena\Documents\Visual Studio 2013\Projects\02.Methods\06.NumberCalculationsDouble\bin\Debug\06.NumberCalculationsDouble.exe.config
-C:\Users\Elena\Documents\Visual Studio 2013\Projects\02.Methods\06.NumberCalculationsDouble\bin\Debug\06.NumberCalculationsDouble.exe
-C:\Users\Elena\Documents\Visual Studio 2013\Projects\02.Methods\06.NumberCalculationsDouble\bin\Debug\06.NumberCalculationsDouble.pdb
-C:\Users\Elena\Documents\Visual Studio 2013\Projects\02.Methods\06.NumberCalculationsDouble\obj\Debug\06.NumberCalculationsDouble.exe
-C:\Users\Elena\Documents\Visual Studio 2013\Projects\02.Methods\06.NumberCalculationsDouble\obj\Debug\06.NumberCalculationsDouble.pdb
