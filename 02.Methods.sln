@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.ReverseNumber", "05.Reve
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.NumberCalculationsDecimal", "06.NumberCalculations\06.NumberCalculationsDecimal.csproj", "{3C5B84EC-7243-4A39-9DA4-B484DBB5D6CD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.GenericArraySortSelection", "07.GenericArraySortSelection\07.GenericArraySortSelection.csproj", "{B216DC6F-645C-45C9-80EB-0080E3414044}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{3C5B84EC-7243-4A39-9DA4-B484DBB5D6CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3C5B84EC-7243-4A39-9DA4-B484DBB5D6CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3C5B84EC-7243-4A39-9DA4-B484DBB5D6CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B216DC6F-645C-45C9-80EB-0080E3414044}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B216DC6F-645C-45C9-80EB-0080E3414044}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B216DC6F-645C-45C9-80EB-0080E3414044}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B216DC6F-645C-45C9-80EB-0080E3414044}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

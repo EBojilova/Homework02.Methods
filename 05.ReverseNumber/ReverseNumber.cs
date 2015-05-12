@@ -11,9 +11,14 @@ class ReverseNumber
 
     private static double ReversedNum(string input)
     {
-        char[] num = input.ToCharArray();
-        Array.Reverse(num);
-        double n = double.Parse(new string(num));
-        return n;
+        bool isNegative=false;
+        if (input[0] == '-')
+        {
+            isNegative = true;
+        }
+        char[] result = input.TrimStart('-').ToCharArray();
+        Array.Reverse(result);
+        double n = double.Parse(new string(result));
+        return (isNegative ? -n : n);
     }
 }

@@ -1,1 +1,0 @@
-C:\Users\Elena\Documents\Visual Studio 2013\Projects\02.Methods\07.GenericArraySort\bin\Debug\07.GenericArraySort.exe.config
