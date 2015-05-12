@@ -1,0 +1,6 @@
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\02.Methods\07.GenericArraySortSelection\bin\Debug\07.GenericArraySortSelection.exe.config
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\02.Methods\07.GenericArraySortSelection\bin\Debug\07.GenericArraySortSelection.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\02.Methods\07.GenericArraySortSelection\bin\Debug\07.GenericArraySortSelection.pdb
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\02.Methods\07.GenericArraySortSelection\obj\Debug\07.GenericArraySortSelection.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\02.Methods\07.GenericArraySortSelection\obj\Debug\07.GenericArraySortSelection.exe
+C:\Users\Elena\Documents\Visual Studio 2013\Projects\02.Methods\07.GenericArraySortSelection\obj\Debug\07.GenericArraySortSelection.pdb
