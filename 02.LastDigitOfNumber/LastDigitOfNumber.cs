@@ -15,11 +15,7 @@ class LastDigitOfNumber
 
     private static string GetNumAsWord(int n)
     {
-        string[] units = {"zero", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine"};
-        while (!(n >= 0 && n <= 9))
-        {
-            n %= 10;
-        }
-        return units[n];
+        string[] units = {"zero", "one", "two", "thre", "four", "five", "six", "seven", "eight", "nine"};
+        return units[n%10];
     }
 }
